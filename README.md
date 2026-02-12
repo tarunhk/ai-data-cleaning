@@ -31,7 +31,6 @@ The objective of this task is to learn how to prepare raw data for machine learn
 
 ## ▶️ How to Run the Program
 
-Open terminal inside the project folder and run:
-
+### Step 1: Install required libraries
 ```bash
-python3 data_cleaning.py
+pip3 install pandas numpy matplotlib seaborn scikit-learn
