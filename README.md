@@ -32,4 +32,4 @@ The script will:
 6. Save cleaned dataset
 
 Output file created:
--cleaned_titanic.csv
+- cleaned_titanic.csv
